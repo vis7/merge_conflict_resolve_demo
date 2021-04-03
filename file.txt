@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 one
 three
 five
 seven
 nine
+two
+four
+six
+eight
+ten
+=======
+
+>>>>>>> even
